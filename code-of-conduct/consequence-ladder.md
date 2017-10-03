@@ -4,31 +4,35 @@ The notion of a 'ladder' is that each time we take an action (ban, warning) the 
 
 ### No Action
 * Mediation Session
-* Staff/or community leaders hold a mediation session * between those involved.
+* Staff/or community leaders hold a mediation session between those involved.
 
 ### Private Warning Issued
-* A private warning from project leadership, with * *clarity of violation, consequences of continued behavior.
+* A private warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 * Mandatory Cooling off Period   (Tools are not revoked)
 * Request for apology if appropriate (sometimes people will simply not want to hear from someone who violated the code against them.
 
 ### Mandatory “cool-off” period (tools aren’t revoked) for 2-4 weeks
-Don’t interact on community messaging platforms (public forums, commenting on bugs) 
-No interaction with other ppl involved 
-Recommendations for ‘out of office’ ways of staying private.
+* Don’t interact on community messaging platforms (public forums, commenting on bugs) .
+* Required - no interaction with other ppl involved .
+* Recommendations for ‘out of office’ ways of staying private.
 
 ### 2-4 Week Imposed Break
-* Request for (public/private) Apology (base, by case)
+* Request for (public/private) Appology (base, by case and if reporter is not anonymous)
 * 2-4 week imposed break.
 * All accounts deactivated, or blocked during this time.
-* Mandatory onboarding process 
+* All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
+* Mandatory CPG onboarding process 
 
 ### Extended Ban
-* Request for Apology
+* Request for (public/private) Appology (base, by case and if reporter is not anonymous)
 * 2-3 months imposed break.
 * All accounts deactivated, or blocked during this time.
-* Mandatory onboarding process after ban
+* All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
+* Mandatory CPG onboarding process 
 
 ### Permanent Ban
-Permanent ban
-All accounts deactivated permanently. 
+* Permanent ban
+* All accounts deactivated permanently. 
+* All community leadership roles permanently suspended
+
 
