@@ -3,10 +3,16 @@ Building on this from [Drupal Community](https://www.drupal.org/conflict-resolut
 The notion of a 'ladder' is that each time we take an action (ban, warning) the individual is made aware of future consequence.  That's not to say that someone cannot jump right to a perminant ban, or that we can't jump 'two' steps in the ladder.  Rather, it's a way of communicating escalation.  
 
 ### No Action
+Recomendations do not indicate violation of CPG
+
+### Mediation
+Recommendations indicate a violation of CPG through a single incident or series of actions that create toxicity in the community. Mediation provides opportunity to provide perspective, gain empathy, and steps for resetting behavior.
+
 * Mediation Session
-* Staff/or community leaders hold a mediation session between those involved.
+* Boundries for further action set.  (next time x happens)
 
 ### Private Warning Issued
+
 * A private warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 * Mandatory Cooling off Period   (Tools are not revoked)
 * Request for apology if appropriate (sometimes people will simply not want to hear from someone who violated the code against them.
