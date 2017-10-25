@@ -8,13 +8,9 @@ Case # refers to your CPG incident report provided on [date], regarding [person]
 
 A working group throughly reviewed reviewed this complaint and reached the following decisions:
 
-<<<<<<< HEAD:code-of-conduct-enforcement/communication/decision-comms/reporter/decision-reporter-level-1.md
-Decision: [incident], [did/did not] occur [and is subject to consequences]
-=======
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
->>>>>>> 480a0d3347d4ad47da6aa130136281c2f89f2c62:code-of-conduct/communication/decision-comms/reporter/decision-reporter-level-1.md
 
 This email is to let you know that [person] has been issued a [warning](https://github.com/osdiversity/osdiversity/blob/master/code-of-conduct/consequence-ladder.md). Any further violations will result in escalated consequence.
 
