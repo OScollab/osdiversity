@@ -6,7 +6,7 @@ Dear [reporter],
 
 Case # refers to your CPG incident report provided on [date], regarding [person] and their actions which violated [section of CPG].
 
-A working group throughly reviewed reviewed this complaint and reached the following decisions:
+A working group thoroughly reviewed reviewed this complaint and reached the following decisions:
 
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
