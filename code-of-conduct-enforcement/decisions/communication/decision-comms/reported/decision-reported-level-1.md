@@ -8,7 +8,6 @@ These reports were reviewed, and an investigation conducted by [a working group/
 
 The decision was made to issue you a private warning. This warning comes with responsibility to cease actions like this in future while representing or participating in[orgname] communities.
 
-If you have any questions, or would like to schedule a 1:1 regarding the scope of this decision , please contact [names].
 
 Enforcement of our CPG is something [org name] takes very seriously.  All community members are held accountable to the standard set forth in the CPG.  As a community leader your behavior also sets the standard for others and signals what is, and is not, acceptable in our community.  We hope this is an opportunity for you to evaluate your role within the community, with positive goals for the future.
 
