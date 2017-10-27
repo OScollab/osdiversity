@@ -1,10 +1,10 @@
 Dear [Individual],
 
-This email is to let you know that, in the last few weeks,   [orgname] received a report that you violated Mozilla’s Community Participation Guidelines (“CPG”). These alleged violations took place [location].  The actions that are alleged to have violated the CPG are:
+This email is to let you know that recently, [orgname] received a report that you violated Mozilla’s Community Participation Guidelines (“CPG”). These alleged violations took place [location].  The actions that are alleged to have violated the CPG are:
 
 * Incident: [description]
 
-These reports were reviewed, and an investigation conducted by [a working group/name of person].  We have determined that a material portion of  the violation is substantiated to our satisfaction following [orgname's] investigative process.  
+This report was reviewed, and an investigation conducted by [a working group/name of person].  We have determined that a material portion of  the violation is substantiated to our satisfaction following [orgname's] investigative process.  
 
 The decision was made to issue you a private warning. This warning comes with responsibility to cease actions like this in future while representing or participating in[orgname] communities.
 
