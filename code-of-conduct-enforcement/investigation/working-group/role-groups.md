@@ -6,7 +6,6 @@
 
 **R**esponsible -  Coordinator   
 **A**ccountable - CCRM , CPGP
-
 **S**upportive  -  Legal, HR, Working Group  
 **C**onsulted - Stakeholder(s)  
 **I**nvolved  -  Individuals not covered by above roles.(+ Reporters)
