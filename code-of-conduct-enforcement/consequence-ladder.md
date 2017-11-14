@@ -5,11 +5,11 @@ The notion of a 'ladder' is that each time we take an action (ban, warning) the 
 ### Level 0: No Action
 Recomendations do not indicate violation of CPG
 
-### Level 1:Simple Warning Issued
+### Level 1: Simple Warning Issued
 * A private, written warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 
-### Level 2: Warning + Mediation
-Recommendations indicate a violation of CPG through a single incident or series of actions that create toxicity in the community. Mediation provides opportunity to provide perspective, gain empathy, and steps for resetting behavior.
+### Level 2: Warning + 1:1
+Recommendations indicate a violation of CPG through a single incident or series of actions that create toxicity in the community. 1:1 discussion provides opportunity to provide perspective, gain empathy, and steps for resetting behavior.
 * Mediation Session
 * Boundries for further action set.  (next time x happens)
 
